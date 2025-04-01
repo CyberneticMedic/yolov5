@@ -1,0 +1,6 @@
+train: ./roboflow/train/images
+val: ./roboflow/valid/images
+test: ./roboflow/test/images
+
+nc: 1
+names: ['package']
