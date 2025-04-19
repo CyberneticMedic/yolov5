@@ -53,3 +53,4 @@ Desktop.ini
 # Ignore all datasets
 yolov5/yolov5/roboflow/
 yolov5/yolov5/my_dataset/
+yolov5/data_conversion/*
