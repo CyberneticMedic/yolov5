@@ -1,0 +1,55 @@
+# Ignore Python virtual environments
+yolov5-env/
+env/
+venv/
+.venv/
+
+# Ignore __pycache__ and other bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment and package files
+*.env
+*.env.*
+*.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled shared libraries
+*.so
+*.dll
+*.dylib
+*.pyd
+*.lib
+
+# Ignore logs
+*.log
+
+# Ignore system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore GitHub specific
+.gitattributes
+
+# Ignore idea/ and VS Code configs
+.idea/
+.vscode/
+
+# Ignore datasets and large model files if any
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Ignore cache and temp files
+.cache/
+*.tmp
+*.bak
+
+# Ignore all datasets
+yolov5/yolov5/roboflow/
+yolov5/yolov5/my_dataset/
