@@ -1,0 +1,5 @@
+train: dual_train.txt
+val: dual_val.txt
+
+nc: 1
+names: ['package']

@@ -1,0 +1,5 @@
+train: my_dataset/images/train
+val: my_dataset/images/val
+
+nc: 1
+names: ['package']

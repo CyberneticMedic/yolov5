@@ -51,9 +51,9 @@ Desktop.ini
 *.bak
 
 # Ignore all datasets
-yolov5/yolov5/roboflow/
-yolov5/yolov5/my_dataset/
-yolov5/data_conversion/*
+roboflow/
+my_dataset/
+data_conversion/*
 
 # Ignore local Python virtual environment
 yolov5-env/
